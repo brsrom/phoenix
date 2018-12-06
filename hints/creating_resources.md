@@ -2,6 +2,8 @@
 
 ## Creating a container registry on Azure
 
+Just create ACR without login. Login will fail over Azure Cloud Shell due to docker deamon.
+
 Via the portal:
 https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal
 
